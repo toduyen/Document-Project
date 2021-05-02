@@ -5,4 +5,8 @@
 - [x] Đã viết xong chương 2
 - [x] Đã viết xong chương 3
 - [x] Đã edit lại và chỉnh sửa
-- [] update...
+- [ ] update...
+# TIẾN ĐỘ
+Chương trình | Tài liệu
+------------ | -------------
+hoàn thành 90% | Tài liệu hoàn thành 96%
