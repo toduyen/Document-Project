@@ -4,13 +4,13 @@ xin chào các bạn mình tên là tuân là sinh viên ICTU mình tham g
     if (name==="Tuân"){
       return true
     }
-    // Make color tí
 ```
 HỌ VÀ TÊN: Phan Kim Tuân
 Lớp: KTPM;K15A
 Địa chỉ: Chung cư Intracom2 cầu diễn
 Kỹ năng: HTML,CSS,JS,REACTJS,Firebase
-Sở thích: Ngắm hoa
+Job: Junior ReactJS developer
+Công ty: Tập đoàn sunshine, Tổng công ty phân phối hàng nhập khẩu Lotus Accessory
 ```
 # HIỆU SUẤT
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toduyen&show_icons=true&theme=radical)
