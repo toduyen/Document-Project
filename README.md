@@ -1,4 +1,4 @@
-# TỔNG QUAN VỀ REPOSITORY TUÂN PHAN
+# TỔNG QUAN VỀ BÀI BÁO CÁO
 xin chào các bạn mình tên là tuân là sinh viên ICTU mình tham gia GITHUB năm 2021 các dự án mình làm về Front end 
 
     if (name==="Tuân"){
