@@ -53,8 +53,8 @@ DOM giúp thao tác với dữ liệu theo mô hình hướng đối tượng do
 <html>                                                   -> document node
 <head>                                                   -> element node - head
     <title>
-        HTML DOM                                         -> text node
-    </title>                                             -> element node - title
+        HTML DOM                                               -> text node
+    </title>                                                   -> element node - title
 </head>                                                  
 <body>                                                   -> element node - body
 </body>                                                   
