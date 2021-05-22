@@ -43,7 +43,7 @@ hoàn thành 90% | Tài liệu hoàn thành 96%
 
 # 2: Nâng cao kỹ năng kỹ thuật chuyên ngành
 <p align="center">
-  <img width="460" height="400" src="https://images.viblo.asia/74e0e748-dff2-4790-a202-f80b29519951.gif">
+  <img width="500" height="500" src="https://images.viblo.asia/74e0e748-dff2-4790-a202-f80b29519951.gif">
 </p>
 
 # 2.1: Dom là cái gì
@@ -64,14 +64,14 @@ DOM giúp thao tác với dữ liệu theo mô hình hướng đối tượng do
 ## 2.2: DOM ngon vậy tại sao còn có visual DOM ?
 Chúng ta có thể thấy hình ở trên, HTML DOM được cấu trúc dạng cây. Thực sự rất ngon vì có thể duyệt cây rất dễ dàng. Thật là đen, ở đây không phải cứ dễ là tốc độ nhanh.
 <p align="center">
-  <img width="460" height="200" src="https://images.viblo.asia/1a81fa13-edd6-4366-b47f-34d1f080ea4b.png">
+  <img width="460" height="460" src="https://images.viblo.asia/1a81fa13-edd6-4366-b47f-34d1f080ea4b.png">
 </p>
 Tuy nhiên đừng hiểu nhầm việc đọc và ghi vào DOM của trình duyệt là chậm. Điều này không đúng. DOM nhanh. Việc cập nhật các node trong DOM không mất nhiều thời gian hơn việc thiết lập một thuộc tính trên một đối tượng JavaScript. Đó là một hoạt động đơn giản.
 
 ## 2.3: The Diffing Algorithm và những điều nên biết
 
 <p align="center">
-  <img width="460" height="200" src="https://miro.medium.com/max/4000/1*wHAx1KnP7obeybFXsL7-NA.png">
+  <img width="460" height="400" src="https://miro.medium.com/max/4000/1*wHAx1KnP7obeybFXsL7-NA.png">
 </p>
 
 When diffing two trees, React first compares the two root elements. The behavior is different depending on the types of the root elements.
