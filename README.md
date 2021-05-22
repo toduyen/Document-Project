@@ -43,7 +43,7 @@ hoàn thành 90% | Tài liệu hoàn thành 96%
 
 # 2: Nâng cao kỹ năng kỹ thuật chuyên ngành
 <p align="center">
-  <img width="460" height="200" src="https://images.viblo.asia/74e0e748-dff2-4790-a202-f80b29519951.gif">
+  <img width="460" height="400" src="https://images.viblo.asia/74e0e748-dff2-4790-a202-f80b29519951.gif">
 </p>
 
 # 2.1: Dom là cái gì
