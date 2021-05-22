@@ -153,3 +153,5 @@ In order to solve this issue, React supports a key attribute. When children have
 </ul>
 ```
 Now React knows that the element with key '2014' is the new one, and the elements with the keys '2015' and '2016' have just moved.
+
+> Keys should be stable, predictable, and unique. Unstable keys (like those produced by Math.random()) will cause many component instances and DOM nodes to be unnecessarily recreated, which can cause performance degradation and lost state in child components.
