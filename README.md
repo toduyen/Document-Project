@@ -123,7 +123,7 @@ For example, when adding an element at the end of the children, converting betwe
   <li>third</li>
 </ul>
 ```
-React will match the two <li>first</li> trees, match the two <li>second</li> trees, and then insert the <li>third</li> tree.If you implement it naively, inserting an element at the beginning has worse performance. For example, converting between these two trees works poorly:
+React will match the two ```<li>first</li> trees, match the two <li>second</li> trees, and then insert the <li>third</li>``` tree.If you implement it naively, inserting an element at the beginning has worse performance. For example, converting between these two trees works poorly:
 
 ```
 <ul>
