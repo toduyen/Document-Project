@@ -78,20 +78,19 @@ When diffing two trees, React first compares the two root elements. The behavior
 
 ### 2.3.1: Elements Of Different Types
 Whenever the root elements have different types, React will tear down the old tree and build the new tree from scratch. 
-Going from /* <a> to <img>, or from <Article> to <Comment>, or from <Button> to <div> */ - any of those will lead to a full rebuild.
+Going from <a> to <img>, or from <Article> to <Comment>, or from <Button> to <div> - any of those will lead to a full rebuild.
 
 When tearing down a tree, old DOM nodes are destroyed. Component instances receive componentWillUnmount(). When building up a new tree, new DOM nodes are inserted into the DOM. Component instances receive UNSAFE_componentWillMount() and then componentDidMount(). Any state associated with the old tree is lost.
- 
 ```
  <div>
   <Counter />
 </div>
-
 <span>
   <Counter />
 </span>
 ```
-This will destroy the old Counter and remount a new one
     
+This will destroy the old Counter and remount a new one
+  
 ### 2.3.2: DOM Elements Of The Same Type
 
