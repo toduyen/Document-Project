@@ -24,3 +24,35 @@ Công ty: ĂN MẶN ĐÁI KHAI
 Chương trình | Tài liệu
 ------------ | -------------
 hoàn thành 90% | Tài liệu hoàn thành 96%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 2: Nâng cao kỹ năng kỹ thuật chuyên ngành
+![Browser Dom](https://images.viblo.asia/74e0e748-dff2-4790-a202-f80b29519951.gif)
+nguồn: w3school
+
+DOM là tên gọi tắt của Document Object Model (Mô hình Đối tượng Tài liệu), là một chuẩn được định nghĩa bởi W3C dùng để truy xuất và thao tác trên code HTML hay XML bằng các ngôn ngữ lập trình thông dịch (scripting language) như Javascript.
+
+
+
+
+
+
+
+
+
+
