@@ -1,4 +1,4 @@
-# TỔNG QUAN VỀ BÀI BÁO CÁO
+# 1: TỔNG QUAN VỀ BÀI BÁO CÁO
 xin chào các bạn mình tên là tuân là sinh viên ICTU mình tham gia GITHUB năm 2021 các dự án mình làm về Front end 
 
     if (name==="Tuân"){
@@ -12,7 +12,7 @@ Kỹ năng: HTML,CSS,JS,REACTJS,Firebase
 Job: Junior ReactJS developer
 Công ty: ĂN MẶN ĐÁI KHAI
 ```
-# HIỆU SUẤT
+## 1.1: HIỆU SUẤT
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toduyen&show_icons=true&theme=radical)
 # Những gì đã làm
 - [x] Đã viết xong chương 1
@@ -20,7 +20,7 @@ Công ty: ĂN MẶN ĐÁI KHAI
 - [x] Đã viết xong chương 3
 - [x] Đã edit lại và chỉnh sửa
 - [ ] update...
-# TIẾN ĐỘ
+## 1.2: TIẾN ĐỘ
 Chương trình | Tài liệu
 ------------ | -------------
 hoàn thành 90% | Tài liệu hoàn thành 96%
