@@ -43,13 +43,22 @@ hoàn thành 90% | Tài liệu hoàn thành 96%
 
 # 2: Nâng cao kỹ năng kỹ thuật chuyên ngành
 <p align="center">
-  <img width="460" height="300" src="https://images.viblo.asia/74e0e748-dff2-4790-a202-f80b29519951.gif">
+  <img width="460" height="200" src="https://images.viblo.asia/74e0e748-dff2-4790-a202-f80b29519951.gif">
 </p>
-DOM là tên gọi tắt của Document Object Model (Mô hình Đối tượng Tài liệu), là một chuẩn được định nghĩa bởi W3C dùng để truy xuất và thao tác trên code HTML hay XML bằng các ngôn ngữ lập trình thông dịch (scripting language) như Javascript.
 
+DOM giúp thao tác với dữ liệu theo mô hình hướng đối tượng do các phần tử trong DOM có cấu trúc được định nghĩa thành các đối tượng, phương thức, thuộc tính để có thể truy xuất dễ dàng. Chúng được coi như các node và được biểu diễn dưới dạng DOM Tree.
 
-
-
+```
+<html>                                                   -> document node
+<head>                                                   -> element node - head
+    <title>
+        HTML DOM                                         -> text node
+    </title>                                             -> element node - title
+</head>                                                  
+<body>                                                   -> element node - body
+</body>                                                   
+</html>   
+```
 
 
 
