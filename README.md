@@ -10,7 +10,7 @@ Lớp: KTPM;K15A
 Địa chỉ: Chung cư Intracom2 cầu diễn
 Kỹ năng: HTML,CSS,JS,REACTJS,Firebase
 Job: Junior ReactJS developer
-Công ty: ĂN MẶN ĐÁI KHAI
+Công ty: Tập đoàn bất động sản SunShine Việt Nam
 ```
 ## 1.1: HIỆU SUẤT
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toduyen&show_icons=true&theme=radical)
