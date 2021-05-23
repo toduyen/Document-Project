@@ -47,7 +47,7 @@ hoàn thành 90% | Tài liệu hoàn thành 96%
 </p>
 
 # 2.1: Dom là cái gì
-DOM giúp thao tác với dữ liệu theo mô hình hướng đối tượng do các phần tử trong DOM có cấu trúc được định nghĩa thành các đối tượng, phương thức, thuộc tính để có thể truy xuất dễ dàng. Chúng được coi như các node và được biểu diễn dưới dạng DOM Tree.
+DOM helps to manipulate data in an object-oriented model because the components in the DOM have a structure defined as objects, methods, properties to be easily retrieved. They are treated as nodes and are performed as DOM Trees.
 
 ```
 <html>                                                   -> document node
@@ -65,11 +65,11 @@ DOM giúp thao tác với dữ liệu theo mô hình hướng đối tượng do
 <p align="center">
   <img width="500" height="500" src="https://i0.wp.com/programmingwithmosh.com/wp-content/uploads/2018/11/lnrn_0201.png?fit=1173%2C785&ssl=1">
 </p>
-Chúng ta có thể thấy hình ở trên, HTML DOM được cấu trúc dạng cây. Thực sự rất ngon vì có thể duyệt cây rất dễ dàng. Thật là đen, ở đây không phải cứ dễ là tốc độ nhanh.
+We can see the image above, HTML DOM is structured as a tree. It is really delicious because it is possible to browse trees very easily. It's black, it's not easy to be fast.
 <p align="center">
   <img width="460" height="460" src="https://images.viblo.asia/1a81fa13-edd6-4366-b47f-34d1f080ea4b.png">
 </p>
-Tuy nhiên đừng hiểu nhầm việc đọc và ghi vào DOM của trình duyệt là chậm. Điều này không đúng. DOM nhanh. Việc cập nhật các node trong DOM không mất nhiều thời gian hơn việc thiết lập một thuộc tính trên một đối tượng JavaScript. Đó là một hoạt động đơn giản.
+However, do not misunderstand that reading and recording to the DOM of the browser is slow. This is not true. Fast DOM. Updating nodes in dom doesn't take longer than setting an attribute on a JavaScript object. It's a simple operation.
 
 ## 2.3: The Diffing Algorithm và những điều nên biết
 
