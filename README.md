@@ -62,6 +62,9 @@ DOM giúp thao tác với dữ liệu theo mô hình hướng đối tượng do
 ```
 
 ## 2.2: DOM ngon vậy tại sao còn có visual DOM ?
+<p align="center">
+  <img width="500" height="500" src="https://i0.wp.com/programmingwithmosh.com/wp-content/uploads/2018/11/lnrn_0201.png?fit=1173%2C785&ssl=1">
+</p>
 Chúng ta có thể thấy hình ở trên, HTML DOM được cấu trúc dạng cây. Thực sự rất ngon vì có thể duyệt cây rất dễ dàng. Thật là đen, ở đây không phải cứ dễ là tốc độ nhanh.
 <p align="center">
   <img width="460" height="460" src="https://images.viblo.asia/1a81fa13-edd6-4366-b47f-34d1f080ea4b.png">
